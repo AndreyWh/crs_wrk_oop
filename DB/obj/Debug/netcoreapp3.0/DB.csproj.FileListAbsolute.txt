@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\bin\Debug\netcoreapp3.0\DB.deps.json
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\bin\Debug\netcoreapp3.0\DB.dll
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\obj\Debug\netcoreapp3.0\DB.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\obj\Debug\netcoreapp3.0\DB.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\obj\Debug\netcoreapp3.0\DB.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\bin\Debug\netcoreapp3.0\DB.runtimeconfig.json
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\bin\Debug\netcoreapp3.0\DB.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\bin\Debug\netcoreapp3.0\DB.pdb
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\obj\Debug\netcoreapp3.0\DB.csproj.CopyComplete
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\obj\Debug\netcoreapp3.0\DB.dll
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\DB\obj\Debug\netcoreapp3.0\DB.pdb

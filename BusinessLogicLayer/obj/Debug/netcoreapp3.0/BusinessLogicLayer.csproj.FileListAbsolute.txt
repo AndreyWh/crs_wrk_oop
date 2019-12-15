@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.deps.json
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\bin\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DB.dll
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\bin\Debug\netcoreapp3.0\DB.pdb
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.dll
+C:\Users\Admin\source\repos\CourseWork_FootballApplication\BusinessLogicLayer\obj\Debug\netcoreapp3.0\BusinessLogicLayer.pdb
